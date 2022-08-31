@@ -5,7 +5,7 @@ A site for downloading various software packages in one place.
 
 ## Downloadable projects and software ##
 
-###Microsoft Windows ###
+### Microsoft Windows
 - Windows 11
 - Windows 10
 - Windows 8.1
@@ -13,7 +13,7 @@ A site for downloading various software packages in one place.
 - Windows 7
 - Activator utility
 
-###Linux Distributions###
+### Linux Distributions
  - Ubuntu LTS
  - Arch Linux
  - Linux Mint
@@ -23,7 +23,7 @@ A site for downloading various software packages in one place.
  - CentOS
  - Solus OS
 
-###Microsoft Office
+### Microsoft Office
 - Office 2007
 - Office 2008
 - Office 2010
@@ -34,7 +34,7 @@ A site for downloading various software packages in one place.
 - Activator utility
 
 
-###Adobe CC 2022
+### Adobe CC 2022
 - Photoshop
 - Premiere Pro
 - Illustrator
@@ -50,7 +50,7 @@ A site for downloading various software packages in one place.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-####Contributors
+#### Contributors
 - [berkays0733](https://github.com/berkays0733 "berkays0733")
 - [expressluke](https://github.com/expressluke "expressluke")
 
