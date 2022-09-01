@@ -22,6 +22,7 @@ A site for downloading various software packages in one place.
  - elementary OS
  - CentOS
  - Solus OS
+ - Etc
 
 ### Microsoft Office
 - Office 2007
@@ -46,6 +47,7 @@ A site for downloading various software packages in one place.
 - Malwarebytes
 - Oracle JRE 8
 - 7-Zip
+- Etc..
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
