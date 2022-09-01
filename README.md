@@ -22,7 +22,7 @@ A site for downloading various software packages in one place.
  - elementary OS
  - CentOS
  - Solus OS
- - Etc
+ - Etc..
 
 ### Microsoft Office
 - Office 2007
