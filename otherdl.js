@@ -28,31 +28,39 @@ btnOT.onclick = (event) => {
 
   window.location.href = "https://download-new.utorrent.com/endpoint/utweb/track/stable/os/win";
 
+  
   if (sbOTH.value =="VLC")
 
   window.location.href = "https://dl6.filehippo.com/773/809/254abc40df37dce4d14015745074d5caa8/vlc-3.0.12-win64.exe?signature=44b45c8a8acf4bb7318cc37179714dca&expires=1662105284&url=https%3A%2F%2Ffilehippo.com%2Fdownload_vlc-media-player-64%2F&filename=vlc-3.0.12-win64.exe";
 
+  
   if (sbOTH.value =="DriverPack17Online")
 
   window.location.href = "https://dl6.filehippo.com/9ca/d0f/98446f3cbe749084360b4e83104f93e9f8/DriverPack-17-Online_1633135298.1583503512.exe?signature=6a485e5c0e6bb86c3ad2f3252b8396f5&expires=1662105331&url=https%3A%2F%2Ffilehippo.com%2Fdownload_driverpack-solution-online%2F&filename=DriverPack-17-Online_1633135298.1583503512.exe";
 
+  
   if (sbOTH.value =="unlocker")
 
   window.location.href = "https://dl6.filehippo.com/73c/98f/1721958026beb496bfcf15fb9a28b3b7a0/Unlocker1-9-2.exe?signature=ab93b724e73b7095d0ddddee769d6e50&expires=1662099514&url=https%3A%2F%2Ffilehippo.com%2Fdownload_unlocker%2F&filename=Unlocker1-9-2.exe";
 
+  
   if (sbOTH.value =="Telegram")
 
   window.location.href = "https://dl6.filehippo.com/c14/c9a/49299d99a9aa002f4d11c9645b7de261c7/tsetup-x64.2.7.1.exe?signature=d828d022291613318399b9078dae0924&expires=1662105439&url=https%3A%2F%2Ffilehippo.com%2Fdownload_telegram%2F&filename=tsetup-x64.2.7.1.exe";
  
+  
   if (sbOTH.value =="DirectXRuntimeOfflineInstaller")
 
   window.location.href = "https://de1-dl.techpowerup.com/files/RFwGc75YGwmVqevoY0d7yQ/1662105872/DirectX-Redist-Jun-2010.zip";
+  
   
   if (sbOTH.value =="VisualC++RedistributableRuntimesAll-in-One")
 
   window.location.href = "https://de1-dl.techpowerup.com/files/Fiz7jw0V2YMDWCKScl5a_w/1662105778/Visual-C-Runtimes-All-in-One-Jul-2022.zip";
 
+  
   if (sbOTH.value =="NVCleanstall")
 
   window.location.href = "https://de1-dl.techpowerup.com/files/YKZeWfCYwjSmaWAYBttaTg/1662105706/NVCleanstall_1.13.0.exe";
+
 };
