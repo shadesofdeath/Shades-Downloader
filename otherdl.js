@@ -17,7 +17,7 @@ btnOT.onclick = (event) => {
  
   if (sbOTH.value =="java")
 
-  window.location.href = "https://dl6.filehippo.com/289/f31/402ec3c3818fde0523817e8510cb448f08/jre-8u201-windows-x64.exe?signature=e9d0179b476b19c6a35045b14f70efda&expires=1662003535&url=https%3A%2F%2Ffilehippo.com%2Fdownload_jre-64%2F&filename=jre-8u201-windows-x64.exe";
+  window.location.href = "http://83.103.170.157/apps/java/jdk_1.8/jre/jre-8u202-windows-x64.exe";
 
   if (sbOTH.value =="7zip")
 
@@ -31,36 +31,36 @@ btnOT.onclick = (event) => {
   
   if (sbOTH.value =="vlc")
 
-  window.location.href = "https://dl6.filehippo.com/773/809/254abc40df37dce4d14015745074d5caa8/vlc-3.0.12-win64.exe?signature=44b45c8a8acf4bb7318cc37179714dca&expires=1662105284&url=https%3A%2F%2Ffilehippo.com%2Fdownload_vlc-media-player-64%2F&filename=vlc-3.0.12-win64.exe";
+  window.location.href = "https://download.videolan.org/vlc/last/win64/vlc-3.0.17.4-win64.exe";
 
   
   if (sbOTH.value =="DriverPack17Online")
 
-  window.location.href = "https://dl6.filehippo.com/9ca/d0f/98446f3cbe749084360b4e83104f93e9f8/DriverPack-17-Online_1633135298.1583503512.exe?signature=6a485e5c0e6bb86c3ad2f3252b8396f5&expires=1662105331&url=https%3A%2F%2Ffilehippo.com%2Fdownload_driverpack-solution-online%2F&filename=DriverPack-17-Online_1633135298.1583503512.exe";
+  window.location.href = "http://dl.driverpack.io/17-online/DriverPack-17-Online.exe";
 
   
   if (sbOTH.value =="unlocker")
 
-  window.location.href = "https://dl6.filehippo.com/73c/98f/1721958026beb496bfcf15fb9a28b3b7a0/Unlocker1-9-2.exe?signature=ab93b724e73b7095d0ddddee769d6e50&expires=1662099514&url=https%3A%2F%2Ffilehippo.com%2Fdownload_unlocker%2F&filename=Unlocker1-9-2.exe";
+  window.location.href = "https://www.filecroco.com/download-file/download-unlocker/104/95/";
 
   
   if (sbOTH.value =="telegram")
 
-  window.location.href = "https://dl6.filehippo.com/c14/c9a/49299d99a9aa002f4d11c9645b7de261c7/tsetup-x64.2.7.1.exe?signature=d828d022291613318399b9078dae0924&expires=1662105439&url=https%3A%2F%2Ffilehippo.com%2Fdownload_telegram%2F&filename=tsetup-x64.2.7.1.exe";
+  window.location.href = "https://telegram.org/dl/desktop/win64";
  
   
   if (sbOTH.value =="drtcx")
 
-  window.location.href = "https://de1-dl.techpowerup.com/files/RFwGc75YGwmVqevoY0d7yQ/1662105872/DirectX-Redist-Jun-2010.zip";
+  window.location.href = "https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe";
   
   
   if (sbOTH.value =="visualC++")
 
-  window.location.href = "https://de1-dl.techpowerup.com/files/Fiz7jw0V2YMDWCKScl5a_w/1662105778/Visual-C-Runtimes-All-in-One-Jul-2022.zip";
+  window.location.href = "https://aka.ms/vs/17/release/vc_redist.x64.exe";
 
   
   if (sbOTH.value =="nvc")
 
-  window.location.href = "https://de1-dl.techpowerup.com/files/YKZeWfCYwjSmaWAYBttaTg/1662105706/NVCleanstall_1.13.0.exe";
+  window.location.href = "https://download.instalki.org/programy/Windows/Narzedzia/zarzadzanie_sterownikami/NVCleanstall_1.13.0.exe";
 
 };
