@@ -26,7 +26,7 @@ btnOT.onclick = (event) => {
 
   if (sbOTH.value =="trnt")
 
-  window.location.href = "https://download-new.utorrent.com/endpoint/utweb/track/stable/os/win";
+  window.location.href = "https://sourceforge.net/projects/qbittorrent/files/latest/download";
 
   
   if (sbOTH.value =="vlc")
