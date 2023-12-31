@@ -114,6 +114,10 @@ btnwind.onclick = (event) => {
   if (sbw.value =="150732")
   
   window.location.href="https://archive.org/download/windows-10-home-pro-1507-x-86/Windows%2010%20Home%2C%20Pro%201507%20x86.iso";
+
+  if (sbw.value =="10ltsciot64")
+  
+  window.location.href="https://archive.org/download/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f_202301/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso";
   
   if (sbw.value =="10ltsc64")
   
