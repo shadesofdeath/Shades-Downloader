@@ -31,7 +31,7 @@ btnOT.onclick = (event) => {
   
   if (sbOTH.value =="vlc")
 
-  window.location.href = "https://download.videolan.org/vlc/last/win64/vlc-3.0.17.4-win64.exe";
+  window.location.href = "https://download.videolan.org/vlc/last/win64/vlc-3.0.20-win64.msi";
 
   
   if (sbOTH.value =="DriverPack17Online")
@@ -41,7 +41,7 @@ btnOT.onclick = (event) => {
   
   if (sbOTH.value =="unlocker")
 
-  window.location.href = "https://www.filecroco.com/download-file/download-unlocker/104/95/";
+  window.location.href = "https://files1.majorgeeks.com/10afebdbffcd4742c81a3cb0f6ce4092156b4375/drives/UnlockerPortable%20MajorGeeks.zip";
 
   
   if (sbOTH.value =="telegram")
