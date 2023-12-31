@@ -5,7 +5,7 @@ btnwin.onclick = (event) => {
 
   if (sbx.value =="ubuntu")
 
-  window.location.href="https://mirror.verinomi.com/ubuntu/ubuntu-releases/22.04.1/ubuntu-22.04.1-desktop-amd64.iso";
+  window.location.href="https://mirrors.nxtgen.com/ubuntu-mirror/ubuntu-releases/22.04.3/ubuntu-22.04.3-desktop-amd64.iso";
  
   if (sbx.value =="mint")
 
@@ -33,5 +33,5 @@ btnwin.onclick = (event) => {
  
   if (sbx.value =="arch")
 
-  window.location.href="https://geo.mirror.pkgbuild.com/iso/2022.08.05/archlinux-2022.08.05-x86_64.iso"
+  window.location.href="https://geo.mirror.pkgbuild.com/iso/latest/archlinux-x86_64.iso"
 };
